@@ -1,6 +1,6 @@
 {
   "nama": "bryan",
-  "umur": "20",
+  "umur": 20,
   "pekerjaan": "mahasiswa",
   "status": "aktif"
 }
